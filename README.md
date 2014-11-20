@@ -37,7 +37,7 @@ A collection of parts libraries for Eagle PCB.
 -  Tamura 600:600 CT transformer
 -  generic 1P1S transformer
 
-# adam - transistors
+# adam - transistors.lbr
 -  2N5550 NPN high-voltage transistor
 -  BTA04 BTA04 TRIAC
 -  FQP19N20C N-Channel enhancement MOSFET
